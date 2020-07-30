@@ -9,7 +9,7 @@
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. A bit enthusiast towards web development. Recanty Completed Advance Python Programming and now ahead of A.I and M.L
 <br> <br> <br>  
 
-<a href="https://www.buymeacoffee.com/everydaycodings" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 5px !important;width: 80px !important;" ></a>
+<a href="https://www.buymeacoffee.com/everydaycodings" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 5px important;width: 80px important;" ></a>
 
 
 
