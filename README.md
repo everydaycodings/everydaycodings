@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ayushkumar_25)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. Competitive coding and motorsports boost my adrenaline. <br> 
