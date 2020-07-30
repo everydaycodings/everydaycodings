@@ -10,7 +10,6 @@
 <br> <br> <br>  
 
 <a href="https://www.buymeacoffee.com/everydaycodings" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 
