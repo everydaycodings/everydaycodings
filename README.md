@@ -1,5 +1,5 @@
 ## नमस्ते 🙏
-[![](images/telegram.png)](https://www.instagram.com/everydaycodings)
+[![](images/telegram(1).png)](https://www.instagram.com/everydaycodings)
 [![](images/gmail.png)](mailto:ayush2608@gmail.com)
 [![](images/instagram-sketched.png)](https://t.me/ayushkumar_25)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
