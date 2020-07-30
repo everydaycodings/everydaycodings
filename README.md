@@ -1,7 +1,7 @@
 ## नमस्ते 🙏
-[![](images/gmail.png)](https://www.instagram.com/everydaycodings)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ayushkumar_25)
+[![](images/telegram.png)](https://www.instagram.com/everydaycodings)
+[![](images/gmail.png)](mailto:ayush2608@gmail.com)
+[![](images/instagram-sketched.png)](https://t.me/ayushkumar_25)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
