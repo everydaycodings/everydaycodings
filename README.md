@@ -1,7 +1,7 @@
 ## Hello 🙏
 
 [![](images/telegram(1).png)](https://t.me/everydaycodings1)
-![](https://github.com/everydaycodings/everydaycodings/images/blob/master/gmail.jpg?raw=true)
+![](https://github.com/everydaycodings/everydaycodings/blob/master/images/gmail.png?raw=true)
 [![](images/instagram-sketched.png)](https://www.instagram.com/everydaycodings)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
