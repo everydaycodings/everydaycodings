@@ -1,8 +1,8 @@
 ## Hello 🙏
 
-[![](images/telegram(1).png)](https://www.instagram.com/everydaycodings)
+[![](images/telegram(1).png)](https://t.me/everydaycodings1)
 ![](images/gmail.png)
-[![](images/instagram-sketched.png)](https://t.me/ayushkumar_25)
+[![](images/instagram-sketched.png)](https://www.instagram.com/everydaycodings)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
 
