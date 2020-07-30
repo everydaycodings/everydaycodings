@@ -1,7 +1,7 @@
 ## Hello 🙏
 
 [![](images/telegram(1).png)](https://t.me/everydaycodings1)
-![](images/gmail.png)
+![](https://www.flaticon.com/authors/pixel-perfect)
 [![](images/instagram-sketched.png)](https://www.instagram.com/everydaycodings)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
