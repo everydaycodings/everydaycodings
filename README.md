@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+## Hello 🙏
 [![](images/telegram(1).png)](https://www.instagram.com/everydaycodings)
 ![](images/gmail.png)
 [![](images/instagram-sketched.png)](https://t.me/ayushkumar_25)
