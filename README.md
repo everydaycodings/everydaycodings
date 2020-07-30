@@ -1,6 +1,6 @@
 ## नमस्ते 🙏
 [![](images/telegram(1).png)](https://www.instagram.com/everydaycodings)
-[![](images/gmail.png)](sakshammaxwell1891@gmail.com)
+[![](images/gmail.png)
 [![](images/instagram-sketched.png)](https://t.me/ayushkumar_25)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
