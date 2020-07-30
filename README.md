@@ -1,7 +1,7 @@
 ## Hello 🙏
 
 [![](images/telegram(1).png)](https://t.me/everydaycodings1)
-[!](https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=2)
+![](https://github.com/everydaycodings/everydaycodings/images/blob/master/gmail.jpg?raw=true)
 [![](images/instagram-sketched.png)](https://www.instagram.com/everydaycodings)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMe.png)
