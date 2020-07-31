@@ -4,7 +4,7 @@
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/images/gmail.png?raw=true)
 [![](https://github.com/everydaycodings/everydaycodings/blob/master/images/instagram-sketched.png?raw=true)](https://www.instagram.com/everydaycodings)
 
-![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMecode.png)
+![](https://github.com/everydaycodings/everydaycodings/blob/master/aboutMecoe.png)
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. A bit enthusiast towards web development. Recanty Completed Advance Python Programming and now ahead of A.I and M.L
