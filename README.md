@@ -8,7 +8,7 @@
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. A bit enthusiast towards web development. Recanty Completed Advance Python Programming and now ahead of A.I and M.L
-[![HitCount](http://hits.dwyl.com/everydaycodings/everydaycodings.svg)](http://hits.dwyl.com/everydaycodings/everydaycodings)
+[![forthebadge Love-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <br> <br> <br>  
 
 <a href="https://www.buymeacoffee.com/everydaycodings" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 80px !important;" ></a>
