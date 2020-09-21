@@ -1,7 +1,7 @@
 ## Hello World 🙏
 
 [![](https://github.com/everydaycodings/everydaycodings/blob/master/images/telegram(1).png?raw=true)](https://t.me/everydaycodings)
-![sakshammaxwell1891@gmail.com](https://github.com/everydaycodings/everydaycodings/blob/master/images/avatar.png?raw=true)
+[![](https://github.com/everydaycodings/everydaycodings/blob/master/images/avatar.png?raw=true)](https://everydaycodings.herokuapp.com/)
 [![](https://github.com/everydaycodings/everydaycodings/blob/master/images/instagram-sketched.png?raw=true)](https://www.instagram.com/everydaycodings)
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/AboutMe.png)
