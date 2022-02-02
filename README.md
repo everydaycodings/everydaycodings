@@ -8,7 +8,7 @@
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/AboutMe.png)
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Recanty Completed Advance Python Programming and now ahead of A.I and M.L
+#### A programmer, a coder, and a friend, I'm a Student always curious to learn cutting-edge technology. Currently Engaged with A.I and M.L
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 <br> <br> <br>  
 
