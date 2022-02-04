@@ -1,9 +1,11 @@
 ## Hello World 🙏
 
-[![](https://github.com/everydaycodings/everydaycodings/blob/master/images/telegram(1).png?raw=true)](https://t.me/everydaycodings)
+
+[![](https://github.com/everydaycodings/everydaycodings/blob/master/images/kaggle.png?raw=true)](https://www.kaggle.com/everydaycodings)
+[![](https://github.com/everydaycodings/everydaycodings/blob/master/images/medium.png?raw=true)](https://everydaycodings.medium.com)
 [![](https://github.com/everydaycodings/everydaycodings/blob/master/images/avatar.png?raw=true)](https://everydaycodings.herokuapp.com/)
 [![](https://github.com/everydaycodings/everydaycodings/blob/master/images/instagram-sketched.png?raw=true)](https://www.instagram.com/everydaycodings)
-[![](https://github.com/everydaycodings/everydaycodings/blob/master/images/facebook.png?raw=true)](https://www.facebook.com/everydaycodings.io)
+<br>
 
 ![](https://github.com/everydaycodings/everydaycodings/blob/master/AboutMe.png)
 
