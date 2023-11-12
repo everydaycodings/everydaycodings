@@ -16,7 +16,7 @@
 
 <br> <br> <be>
 
-<img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
+<img align="right" alt="PNG" src="https://github.com/everydaycodings/everydaycodings/blob/master/images/cat.png" height="300" />
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=everydaycodings&theme=dark&count_private=true&show_icons=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=everydaycodings&theme=dark&show_icons=true&locale=en&layout=compact" alt="everydaycodings" />
